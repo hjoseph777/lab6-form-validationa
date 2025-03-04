@@ -1,0 +1,36 @@
+/* Alternative syntax that sometimes works better */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Your other styles */
+:root {
+  --font-sans: var(--font-inter), system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: var(--font-geist-mono);
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-sans), Arial, Helvetica, sans-serif;
+}
+
+/* Additional utility classes */
+.text-red {
+  color: #ef4444 !important;
+}
+.text-green {
+  color: #10b981 !important;
+}
+.text-blue {
+  color: #3b82f6 !important;
+}
