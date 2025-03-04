@@ -51,20 +51,20 @@ lab6-form-validationa/
 
 The main form implementation with validation logic:
 
-- [FormPage.tsx](https://github.com/yourusername/lab6-form-validationa/blob/main/src/app/FormPage.tsx)
+- [FormPage.tsx](https://github.com/hjoseph777/lab6-form-validationa/blob/main/src/app/FormPage.tsx)
 
 ### Pages
 
-- [index.tsx](https://github.com/yourusername/lab6-form-validationa/blob/main/pages/index.tsx) - Main entry point that renders the form
+- [index.tsx](https://github.com/hjoseph7777/lab6-form-validationa/blob/main/pages/index.tsx) - Main entry point that renders the form
 
 ### Styling
 
-- [globals.css](https://github.com/yourusername/lab6-form-validationa/blob/main/styles/globals.css) - Global styles and Tailwind imports
+- [globals.css](https://github.com/hjoseph777e/lab6-form-validationa/blob/main/styles/globals.css) - Global styles and Tailwind imports
 
 ### Configuration
 
-- [tailwind.config.js](https://github.com/yourusername/lab6-form-validationa/blob/main/tailwind.config.js) - Tailwind CSS configuration
-- [postcss.config.js](https://github.com/yourusername/lab6-form-validationa/blob/main/postcss.config.js) - PostCSS configuration
-- [next.config.js](https://github.com/yourusername/lab6-form-validationa/blob/main/next.config.js) - Next.js configuration
+- [tailwind.config.js](https://github.com/hjoseph777/lab6-form-validationa/blob/main/tailwind.config.js) - Tailwind CSS configuration
+- [postcss.config.js](https://github.com/hjoseph777/lab6-form-validationa/blob/main/postcss.config.js) - PostCSS configuration
+- [next.config.js](https://github.com/hjoseph7777/lab6-form-validationa/blob/main/next.config.js) - Next.js configuration
 
 
