@@ -4,6 +4,8 @@ A responsive, interactive form built with Next.js and TypeScript featuring real-
 
 ![Form Screenshot](image/Screenshot1.png)
 
+![Form Screenshot](Image/Screenshot1.png)
+
 ## Project Overview
 
 This project demonstrates advanced form validation techniques with a focus on user experience. The form includes:
