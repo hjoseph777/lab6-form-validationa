@@ -3,6 +3,7 @@
 A responsive, interactive form built with Next.js and TypeScript featuring real-time validation, visual feedback, and a modern UI design.
 
 ![Form Screenshot](image/screenshot1.png)
+![Form Screenshot](Image/Screenshot1.png)
 
 ## Project Overview
 
@@ -14,7 +15,7 @@ This project demonstrates advanced form validation techniques with a focus on us
 - Success/error states
 - Responsive design
 
-![Validation Example](image/screenshot2.png)
+![Validation Example](image/Screenshot2.png)
 
 ## Key Features
 
@@ -24,7 +25,7 @@ This project demonstrates advanced form validation techniques with a focus on us
 - **Accessibility**: Proper ARIA attributes for screen readers
 - **Responsive Design**: Mobile-friendly layout that adapts to different screen sizes
 
-![Mobile View](image/screenshot3.png)
+![Mobile View](image/Screenshot3.png)
 
 ## Directory Structure
 <pre>
@@ -50,7 +51,7 @@ lab6-form-validationa/
 
 The main form implementation with validation logic:
 
-- [FormPage.tsx](https://github.com/hjosseph777/lab6-form-validationa/blob/main/src/app/FormPage.tsx)
+- [FormPage.tsx](https://github.com/hjoseph777/lab6-form-validationa/blob/main/src/app/FormPage.tsx)
 
 ### Pages
 
@@ -62,8 +63,8 @@ The main form implementation with validation logic:
 
 ### Configuration
 
-- [tailwind.config.js](https://github.com/yourusername/lab6-form-validationa/blob/main/tailwind.config.js) - Tailwind CSS configuration
-- [postcss.config.js](https://github.com/yourusername/lab6-form-validationa/blob/main/postcss.config.js) - PostCSS configuration
-- [next.config.js](https://github.com/yourusername/lab6-form-validationa/blob/main/next.config.js) - Next.js configuration
+- [tailwind.config.js](https://github.com/hjoseph777/lab6-form-validationa/blob/main/tailwind.config.js) - Tailwind CSS configuration
+- [postcss.config.js](https://github.com/hjoseph777/lab6-form-validationa/blob/main/postcss.config.js) - PostCSS configuration
+- [next.config.js](https://github.com/hjoseph777/lab6-form-validationa/blob/main/next.config.js) - Next.js configuration
 
 
