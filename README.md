@@ -17,6 +17,7 @@ This project demonstrates advanced form validation techniques with a focus on us
 - Responsive design
 
 ![Validation Example](image/Screenshot2.png)
+![Validation Example](Image/Screenshot2.png)
 
 ## Key Features
 
@@ -27,6 +28,7 @@ This project demonstrates advanced form validation techniques with a focus on us
 - **Responsive Design**: Mobile-friendly layout that adapts to different screen sizes
 
 ![Mobile View](image/Screenshot3.png)
+![Mobile view](Image/Screenshot3.png)
 
 ## Directory Structure
 <pre>
