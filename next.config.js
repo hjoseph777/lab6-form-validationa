@@ -1,8 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  // If your repository name is different from the base path of your site:
+  // Ensure basePath is set correctly
   basePath: process.env.NODE_ENV === 'production' ? '/lab6-form-validationa' : '',
+  // Add assetPrefix to match basePath in production
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/lab6-form-validationa' : '',
+  // Add trailing slash to help with path resolution
+  trailingSlash: true,
   images: {
     unoptimized: true,
   },

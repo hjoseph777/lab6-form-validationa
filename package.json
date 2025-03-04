@@ -1,15 +1,15 @@
 {
+  "homepage": "https://hjoseph777.github.io/lab6-form-validationa",
   "name": "lab6-form-validationa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hjoseph777.github.io/lab6-form-validationa",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export -o dist",
+    "build": "next build ",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+       "deploy": "node deploy.js"
   },
   "dependencies": {
     "framer-motion": "^10.18.0",
