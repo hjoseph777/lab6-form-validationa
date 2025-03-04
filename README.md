@@ -2,8 +2,6 @@
 
 A responsive, interactive form built with Next.js and TypeScript featuring real-time validation, visual feedback, and a modern UI design.
 
-![Form Screenshot](image/Screenshot1.png)
-
 ![Form Screenshot](Image/Screenshot1.png)
 
 ## Project Overview
@@ -16,7 +14,7 @@ This project demonstrates advanced form validation techniques with a focus on us
 - Success/error states
 - Responsive design
 
-![Validation Example](image/Screenshot2.png)
+
 ![Validation Example](Image/Screenshot2.png)
 
 ## Key Features
@@ -27,7 +25,6 @@ This project demonstrates advanced form validation techniques with a focus on us
 - **Accessibility**: Proper ARIA attributes for screen readers
 - **Responsive Design**: Mobile-friendly layout that adapts to different screen sizes
 
-![Mobile View](image/Screenshot3.png)
 ![Mobile view](Image/Screenshot3.png)
 
 ## Directory Structure
